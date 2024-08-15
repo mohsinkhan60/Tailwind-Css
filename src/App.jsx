@@ -1,3 +1,4 @@
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import Product from "./components/Product";
@@ -10,6 +11,7 @@ export const App = () => {
       <Header />
       <Students />
       <Product />
+      <Footer />
     </>
   );
 };
