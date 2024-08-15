@@ -3,7 +3,7 @@ export const Students = () => {
     <div className="flex flex-col flex-wrap items-center h-auto p-10 text-center w-100">
       <div className="flex flex-col flex-wrap items-center h-auto w-100">
         <p className="text-3xl font-bold text-center text-indigo-300 md:text-4xl">
-          Pure HardWork, No ShoetCuts!{" "}
+          Pure HardWork, No ShoetCuts!
         </p>
         <div className="h-1 mt-4 border-b-4 border-yellow-300 md:w-96 w-52 rounded-2xl"></div>
       </div>
